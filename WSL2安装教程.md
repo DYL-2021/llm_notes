@@ -17,3 +17,7 @@ export https_proxy="http://172.18.64.1:7890/"
 
 export ftp_proxy="http://172.18.64.1:7890/"
 ```
+
+```bash
+wsl -u your_username
+```
