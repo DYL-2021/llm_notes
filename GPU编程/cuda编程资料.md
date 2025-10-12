@@ -50,3 +50,12 @@ time: 2025-09-13T18:32:00
 [(2 条消息) CUDA开发环境搭建 - 知乎](https://zhuanlan.zhihu.com/p/488518526)
 [CUDA开发环境搭建指南-CSDN博客](https://blog.csdn.net/weixin_42885266/article/details/150268610)
 [(2 条消息) CUDA编程体验之nvcc编译 - 知乎](https://zhuanlan.zhihu.com/p/652149754)
+[(3 封私信) 推荐一个CUDA 学习与实践的宝藏网站 - 知乎](https://zhuanlan.zhihu.com/p/1898662404528801646)
+[Contents — CUDA C++ Programming Guide](https://docs.nvidia.cn/cuda/cuda-c-programming-guide/contents.html)
+[CUDA-Programming-Guide-in-Chinese/Readme.md at main · HeKun-NVIDIA/CUDA-Programming-Guide-in-Chinese](https://github.com/HeKun-NVIDIA/CUDA-Programming-Guide-in-Chinese/blob/main/Readme.md)
+[(3 封私信) CUDA编程 - 知乎](https://zhuanlan.zhihu.com/c_1938714809362253068)
+[CUDA C++编程指南 — CUDA中文手册 1.0.1 文档](https://cuda-doc.readthedocs.io/zh-cn/latest/CUDA-C-Programming-Guide/index.html)
+[kongen](https://kongenen.github.io/)
+[CUDA 入门教程：更简单的介绍 (更新版) - NVIDIA 技术博客](https://developer.nvidia.com/zh-cn/blog/even-easier-introduction-cuda-2/)
+[比飞鸟贵重的多_HKL的个人空间-比飞鸟贵重的多_HKL个人主页-哔哩哔哩视频](https://space.bilibili.com/218427631/lists/4695308?type=series)
+https://www.bilibili.com/video/BV14twCehEr2/?spm_id_from=333.1387.homepage.video_card.click
