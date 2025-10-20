@@ -59,3 +59,12 @@ time: 2025-09-13T18:32:00
 [CUDA 入门教程：更简单的介绍 (更新版) - NVIDIA 技术博客](https://developer.nvidia.com/zh-cn/blog/even-easier-introduction-cuda-2/)
 [比飞鸟贵重的多_HKL的个人空间-比飞鸟贵重的多_HKL个人主页-哔哩哔哩视频](https://space.bilibili.com/218427631/lists/4695308?type=series)
 https://www.bilibili.com/video/BV14twCehEr2/?spm_id_from=333.1387.homepage.video_card.click
+github/xlite-dev/LeetCUDA
+[LeetGPU入门教程 (CUDA guide最佳实践) - 知乎](https://zhuanlan.zhihu.com/p/1899956367734867434)
+[个人刚开始学_cuda_，有什么推荐的学习路径吗](https://www.zhihu.com/question/1921625369678706016/answer/1921933640876667082)
+[如何系统地学习_CUDA_](https://www.zhihu.com/question/263832290/answer/3537406972)
+[CUDA - 知乎](https://www.zhihu.com/column/c_1763526260972904448)
+[高级 CUDA 学习笔记 - 知乎](https://www.zhihu.com/column/c_1754541269575991296)
+
+63 【史上最接地气的CUDA学习路线保姆级干货分享 - 阿晨狂飙记 | 小红书 - 你的生活兴趣社区】 😆 Ic8WcUofADleCke 😆 https://www.xiaohongshu.com/discovery/item/6814afa5000000002101a73e?source=webshare&xhsshare=pc_web&xsec_token=ABKlvINoLutEJHFFkHqsuZnKjfUDuHfJws-GHWwaELdvE=&xsec_source=pc_share
+
