@@ -68,3 +68,4 @@ github/xlite-dev/LeetCUDA
 
 63 【史上最接地气的CUDA学习路线保姆级干货分享 - 阿晨狂飙记 | 小红书 - 你的生活兴趣社区】 😆 Ic8WcUofADleCke 😆 https://www.xiaohongshu.com/discovery/item/6814afa5000000002101a73e?source=webshare&xhsshare=pc_web&xsec_token=ABKlvINoLutEJHFFkHqsuZnKjfUDuHfJws-GHWwaELdvE=&xsec_source=pc_share
 
+[cuda初学，有什么书籍资料推荐？ - 知乎](https://www.zhihu.com/question/21059179)
