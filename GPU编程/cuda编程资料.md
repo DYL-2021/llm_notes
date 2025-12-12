@@ -69,3 +69,27 @@ github/xlite-dev/LeetCUDA
 63 【史上最接地气的CUDA学习路线保姆级干货分享 - 阿晨狂飙记 | 小红书 - 你的生活兴趣社区】 😆 Ic8WcUofADleCke 😆 https://www.xiaohongshu.com/discovery/item/6814afa5000000002101a73e?source=webshare&xhsshare=pc_web&xsec_token=ABKlvINoLutEJHFFkHqsuZnKjfUDuHfJws-GHWwaELdvE=&xsec_source=pc_share
 
 [cuda初学，有什么书籍资料推荐？ - 知乎](https://www.zhihu.com/question/21059179)
+
+
+[1_GPU编程 introduction-中文配音_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1NTcoebECa?spm_id_from=333.788.videopod.sections&vd_source=cfd43301fa3749e57347725fe185aa03)
+![[Pasted image 20251024103412.png]]
+cuda mode gpu mode课程
+[CUDAMODE《CUDA、GPU编程|CUDA MODE》中英字幕（claude-3.5-h翻译_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1QZ421N7pT?spm_id_from=333.788.videopod.sections&vd_source=cfd43301fa3749e57347725fe185aa03)
+
+[GPU model: Multi-GPU programming_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1nqW9zcEZA/?spm_id_from=333.337.search-card.all.click&vd_source=cfd43301fa3749e57347725fe185aa03)
+
+
+[GitHub - gpu-mode/lectures: Material for gpu-mode lectures](https://github.com/gpu-mode/lectures)
+
+[CUDA-MODE 课程笔记 第一课: 如何在 PyTorch 中 profile CUDA kernels - 知乎](https://zhuanlan.zhihu.com/p/706469164)
+
+[GitHub - gpu-mode/lectures: Material for gpu-mode lectures](https://github.com/gpu-mode/lectures)
+
+[嵌入式AI - 极术社区 - 连接开发者与智能计算生态](https://aijishu.com/blog/embeddedai)
+
+![[Pasted image 20251126100107.png]]
+
+
+[GPU MODE Lecture Notes – Christian Mills](https://christianjmills.com/series/notes/cuda-mode-notes.html)
+
+[github.com](https://github.com/tugot17/pmpp)

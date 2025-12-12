@@ -6,7 +6,7 @@ time: 2025-09-08T15:40:00
 
 ```bash
 # 窗口同步
-setw -g synchronize-panes on
+setw  synchronize-panes on
 ```
 ```bash
 # 设置鼠标
