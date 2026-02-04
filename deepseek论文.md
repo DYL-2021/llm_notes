@@ -14,4 +14,5 @@ time: 2025-09-13T22:19:00
 
 # 3 [Search FusedMoE和EPMoE有什么区别| DeepWiki](https://deepwiki.com/search/fusedmoeepmoe_a4da83bf-3c29-45cc-9b66-28226fe1ed97)
 
+[deepseekv2-论文](https://metaso.cn/pdf-webview?displayUrl=https%3A%2F%2Farxiv.org%2Fpdf%2F2405.04434&url=https%3A%2F%2Ffiles.metaso.cn%2Fapi%2Fpublic-file%2Fpreview%3FfileName%3D744237c0-a4c1-460a-a5b6-05923c267c76.pdf&snippet=undefined&page=1&totalPage=0&bookId=null&title=DeepSeek-V2%3A+A+Strong%2C+Economical%2C+and+Efficient+Mixture-of-Experts+Language+Model&file_path=&_id=744237c0-a4c1-460a-a5b6-05923c267c76&sessionId=null&tag=arxiv&publishDate=undefined&author=undefined&showFront=false&internalFile=false&downloadUrl=%2Fapi%2Fpublic-file%2Fdownload%3FfileName%3D744237c0-a4c1-460a-a5b6-05923c267c76.pdf&sourceId=744237c0-a4c1-460a-a5b6-05923c267c76&topicId=undefined&type=pdf&onlyPreview=false&noComplain=false&share=false&chapterId=&autoOpenPPT=false&autoChat=false&isNative=false&previewUrl=https%3A%2F%2Ffiles.metaso.cn%2Fapi%2Fpublic-file%2Fpreview%3FfileName%3D744237c0-a4c1-460a-a5b6-05923c267c76.pdf&readMode=false)
 
